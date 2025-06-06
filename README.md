@@ -54,11 +54,11 @@ In addition to the data that was identified in Project 1, the following addition
 
 **4: Describe how the data can help to meet the challenge**
 **\
-` `The data gathered last time helps address volatility and liquidity challenges:
+The data gathered last time helps address volatility and liquidity challenges:
 
-- ` `The equity and bond prices help evaluate the value and volatility of the collateral, aiding in determining **loan-to-value (LTV) ratios** and exposure to **market movements**.
+- The equity and bond prices help evaluate the value and volatility of the collateral, aiding in determining **loan-to-value (LTV) ratios** and exposure to **market movements**.
 - Volatility data assists in estimating risks and returns, enabling the team to make informed decisions on **lending rates** and **terms**.
-- ` `Correlation data provides insights into the interdependencies among securities, helping with **diversification strategies** and **risk management**.
+- Correlation data provides insights into the interdependencies among securities, helping with **diversification strategies** and **risk management**.
 
 The data gathered this time can be used to help address the challenges of magnifying risks and frictional challenges. For example, the data:
 
